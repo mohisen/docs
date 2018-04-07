@@ -16,10 +16,9 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`v1.6.0-rc4`, `1.6.0-rc4`, `v1.6`, `1.6`, `tetedemoine` (*scratch/amd64/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/caeb2cc1700b1d3c708eec82840d265816a46832/scratch/amd64/Dockerfile)
--	[`v1.6.0-rc4-alpine`, `1.6.0-rc4-alpine`, `v1.6-alpine`, `1.6-alpine`, `tetedemoine-alpine` (*alpine/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/caeb2cc1700b1d3c708eec82840d265816a46832/alpine/Dockerfile)
--	[`v1.5.4`, `1.5.4`, `v1.5`, `1.5`, `cancoillotte`, `latest` (*scratch/amd64/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/a0b61256a1c3df401f43cf01b940f3a69fb77883/scratch/amd64/Dockerfile)
--	[`v1.5.4-alpine`, `1.5.4-alpine`, `v1.5-alpine`, `1.5-alpine`, `cancoillotte-alpine`, `alpine` (*alpine/Dockerfile*)](https://github.com/containous/traefik-library-image/blob/a0b61256a1c3df401f43cf01b940f3a69fb77883/alpine/Dockerfile)
+**No supported tags found!**
+
+It is very likely that `traefik` does not support the currently selected architecture (`windows-amd64`).
 
 # Quick reference
 
